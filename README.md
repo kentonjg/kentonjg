@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @femto-code
 - 👀 I’m interested in embedded programming (`C`, `C++`)
 - 🌱 Studying Computer Science, B.Sc. in Mannheim, DE
-- ✈ University of Maryland, College Park
-  - U.S. Internship at CALCE (Center for Advanced Life Cycle Engineering) ([https://calce.umd.edu/](https://calce.umd.edu/))
+- ✈ Former U.S. intern at University of Maryland, College Park
 - ✨ I'm doing web app development (`JS`, `PHP`, `SQL`) in my free time
 - 🕺🏼 Latin dancer
 - 🎶 Acoustic Fingerstyle Guitarist
