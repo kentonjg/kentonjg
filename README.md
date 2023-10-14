@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @femto-code
-- 👀 I’m very interested in embedded programming (`C`, `C++`)
+- 👀 Very interested in Embedded Software Development (`C` / `C++`)
 - 🌱 Undergrad student B.Sc. Computer Science in Mannheim, Germany
-- ✨ I'm doing web app development (`JavaScript`, `PHP`, `SQL`) in my free time
+- ✨ Doing web app development (`JavaScript`, `PHP`, `SQL`) in my free time
 - 🕺🏼 Latin dancer
 - 🎶 Acoustic Fingerstyle Guitarist
 - 💞️ I’m looking to contribute to any community project that respects the purpose of free and open-source software
