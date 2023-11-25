@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @femto-code
-- 👀 Very interested in Embedded Software Development (`C` / `C++`)
+- 👀 Highly interested in Embedded Software Development (`C` / `C++`)
 - 🌱 Undergrad student B.Sc. Computer Science in Mannheim, Germany
 - ✨ Doing web app development (`JavaScript`, `PHP`, `SQL`) in my free time
 - 🕺🏼 Latin dancer
