@@ -1,5 +1,5 @@
-# Hi 👋, I'm @femto-code.
+# Hi 👋, I'm Kenton.
 
-- 👀 Actively working in embedded software development & engineering (`C` / `C++`)
-- 🌱 Graduate student M.Sc. Computer Engineering at Heidelberg University
+- 👀 Actively working in Design, software development & engineering.
+- 🌱 Graduate student in Computer Science.
 - 💞️ Looking to contribute to any community project that respects the purpose of free and open-source software
